@@ -1,1 +1,2 @@
 # Network-Graph
+This project is one that I worked on for my Data Structures and Algorithms class (CS 251 - Purdue University). This is an abstraction of what one thinks of as a Network of devices using a Graph as the base data structure. The program has routines that builds connections between computers and stores the latency, builds clusters based on those connections, connects those clusters based on given routers, and traverses the network and gives the minimum latency between two computers.
